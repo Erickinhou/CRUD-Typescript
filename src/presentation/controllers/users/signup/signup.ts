@@ -41,7 +41,7 @@ export class SignUpController implements Controller {
 
       return created(addedAccound)
     } catch (error) {
-      // console.trace(error)
+      console.error(error)
       return serverError()
     }
   }

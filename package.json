@@ -19,6 +19,7 @@
     "git-commit-msg-linter": "^3.1.0",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2",
+    "sequelize-mock-v5": "^1.2.3",
     "validator": "^10.11.0"
   },
   "devDependencies": {
